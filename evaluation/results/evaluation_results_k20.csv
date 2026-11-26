@@ -1,0 +1,51 @@
+architecture,top_k,question,category,expected_source,expected_pages,hit,first_relevant_rank,reciprocal_rank,retrieval_time
+Baseline,20,What are the penalties for plagiarism?,Direct,Academic Integrity Policy_SPJ.pdf,"[5, 6]",1,13,0.07692307692307693,0.0298
+Baseline,20,What happens if I copy someone's assignment?,Paraphrased,Academic Integrity Policy_SPJ.pdf,"[5, 6]",0,0,0,0.0112
+Baseline,20,plagarism punishmnt?,Misspelled,Academic Integrity Policy_SPJ.pdf,"[5, 6]",1,3,0.3333333333333333,0.016
+Baseline,20,Can I use generative AI for assessments?,Direct,Academic Integrity Policy_SPJ.pdf,"[2, 3]",1,2,0.5,0.0139
+Baseline,20,Can I appeal an academic misconduct decision?,Direct,Academic Integrity Policy_SPJ.pdf,[6],1,15,0.06666666666666667,0.0151
+Baseline,20,What are the attendance requirements for BDS students?,Direct,Academic Regulations_SPJ.pdf,"[45, 46]",1,3,0.3333333333333333,0.014
+Baseline,20,What happens if I miss five classes in one BDS subject without approval?,Scenario,Academic Regulations_SPJ.pdf,[46],1,6,0.16666666666666666,0.1168
+Baseline,20,Can I get an excused absence if I am sick?,Paraphrased,Academic Regulations_SPJ.pdf,[45],1,4,0.25,0.0137
+Baseline,20,Can BDS students take a retest after an attendance downgrade?,Direct,Academic Regulations_SPJ.pdf,[46],1,3,0.3333333333333333,0.0168
+Baseline,20,How long do I have to correct an incorrect BDS attendance record?,Direct,Academic Regulations_SPJ.pdf,[46],1,10,0.1,0.0163
+Baseline,20,How do I submit a formal complaint?,Direct,Complaints_and_Appeals_SPJ.pdf,"[3, 5]",1,1,1.0,0.0155
+Baseline,20,What is the deadline for lodging a formal grievance?,Direct,Complaints_and_Appeals_SPJ.pdf,[5],1,1,1.0,0.0266
+Baseline,20,How long do I have to appeal a Stage One academic grievance decision?,Direct,Complaints_and_Appeals_SPJ.pdf,[5],1,1,1.0,0.0158
+Baseline,20,Do I have to pay to lodge an internal appeal?,Paraphrased,Complaints_and_Appeals_SPJ.pdf,"[4, 5]",1,6,0.16666666666666666,0.0115
+Baseline,20,Can I submit an anonymous complaint?,Direct,Complaints_and_Appeals_SPJ.pdf,[3],1,1,1.0,0.0139
+Baseline,20,How can I book an appointment with a student counsellor?,Direct,Student Support Information_SPJ.pdf,[6],1,1,1.0,0.0115
+Baseline,20,Does the university provide English language support?,Direct,Student Support Information_SPJ.pdf,[4],1,1,1.0,0.0131
+Baseline,20,Can I meet my professor outside class for additional help?,Paraphrased,Student Support Information_SPJ.pdf,[4],1,20,0.05,0.0121
+Baseline,20,How does the university identify students at risk?,Direct,Student Support Information_SPJ.pdf,[4],1,4,0.25,0.0114
+Baseline,20,What online library resources are available?,Direct,Student Support Information_SPJ.pdf,[3],1,1,1.0,0.0093
+Baseline,20,Can I use my phone during lectures?,Direct,Student Code of Conduct_SPJ.pdf,[2],0,0,0,0.0111
+Baseline,20,Am I allowed to drink alcohol on campus?,Direct,Student Code of Conduct_SPJ.pdf,[2],1,2,0.5,0.0107
+Baseline,20,Do students have to carry their student ID on campus?,Direct,Student Code of Conduct_SPJ.pdf,[2],1,1,1.0,0.0103
+Baseline,20,What is the university's policy on cyberbullying?,Paraphrased,Student Code of Conduct_SPJ.pdf,[2],1,6,0.16666666666666666,0.017
+Baseline,20,Who should I report a breach of the student code of conduct to?,Direct,Student Code of Conduct_SPJ.pdf,[4],1,2,0.5,0.0347
+Hybrid,20,What are the penalties for plagiarism?,Direct,Academic Integrity Policy_SPJ.pdf,"[5, 6]",1,12,0.08333333333333333,0.4948
+Hybrid,20,What happens if I copy someone's assignment?,Paraphrased,Academic Integrity Policy_SPJ.pdf,"[5, 6]",0,0,0,0.5182
+Hybrid,20,plagarism punishmnt?,Misspelled,Academic Integrity Policy_SPJ.pdf,"[5, 6]",1,3,0.3333333333333333,0.4811
+Hybrid,20,Can I use generative AI for assessments?,Direct,Academic Integrity Policy_SPJ.pdf,"[2, 3]",1,5,0.2,0.4613
+Hybrid,20,Can I appeal an academic misconduct decision?,Direct,Academic Integrity Policy_SPJ.pdf,[6],0,0,0,0.4864
+Hybrid,20,What are the attendance requirements for BDS students?,Direct,Academic Regulations_SPJ.pdf,"[45, 46]",1,2,0.5,0.5743
+Hybrid,20,What happens if I miss five classes in one BDS subject without approval?,Scenario,Academic Regulations_SPJ.pdf,[46],1,6,0.16666666666666666,0.5754
+Hybrid,20,Can I get an excused absence if I am sick?,Paraphrased,Academic Regulations_SPJ.pdf,[45],1,7,0.14285714285714285,0.5583
+Hybrid,20,Can BDS students take a retest after an attendance downgrade?,Direct,Academic Regulations_SPJ.pdf,[46],1,3,0.3333333333333333,0.557
+Hybrid,20,How long do I have to correct an incorrect BDS attendance record?,Direct,Academic Regulations_SPJ.pdf,[46],1,7,0.14285714285714285,0.5298
+Hybrid,20,How do I submit a formal complaint?,Direct,Complaints_and_Appeals_SPJ.pdf,"[3, 5]",1,1,1.0,0.542
+Hybrid,20,What is the deadline for lodging a formal grievance?,Direct,Complaints_and_Appeals_SPJ.pdf,[5],1,3,0.3333333333333333,0.4749
+Hybrid,20,How long do I have to appeal a Stage One academic grievance decision?,Direct,Complaints_and_Appeals_SPJ.pdf,[5],1,1,1.0,0.4985
+Hybrid,20,Do I have to pay to lodge an internal appeal?,Paraphrased,Complaints_and_Appeals_SPJ.pdf,"[4, 5]",1,4,0.25,0.502
+Hybrid,20,Can I submit an anonymous complaint?,Direct,Complaints_and_Appeals_SPJ.pdf,[3],1,1,1.0,0.4785
+Hybrid,20,How can I book an appointment with a student counsellor?,Direct,Student Support Information_SPJ.pdf,[6],1,1,1.0,0.4354
+Hybrid,20,Does the university provide English language support?,Direct,Student Support Information_SPJ.pdf,[4],1,1,1.0,0.4792
+Hybrid,20,Can I meet my professor outside class for additional help?,Paraphrased,Student Support Information_SPJ.pdf,[4],1,6,0.16666666666666666,0.4908
+Hybrid,20,How does the university identify students at risk?,Direct,Student Support Information_SPJ.pdf,[4],1,1,1.0,0.437
+Hybrid,20,What online library resources are available?,Direct,Student Support Information_SPJ.pdf,[3],1,1,1.0,0.4664
+Hybrid,20,Can I use my phone during lectures?,Direct,Student Code of Conduct_SPJ.pdf,[2],1,6,0.16666666666666666,0.5151
+Hybrid,20,Am I allowed to drink alcohol on campus?,Direct,Student Code of Conduct_SPJ.pdf,[2],1,3,0.3333333333333333,0.4963
+Hybrid,20,Do students have to carry their student ID on campus?,Direct,Student Code of Conduct_SPJ.pdf,[2],1,1,1.0,0.5618
+Hybrid,20,What is the university's policy on cyberbullying?,Paraphrased,Student Code of Conduct_SPJ.pdf,[2],0,0,0,0.4393
+Hybrid,20,Who should I report a breach of the student code of conduct to?,Direct,Student Code of Conduct_SPJ.pdf,[4],1,3,0.3333333333333333,0.4112

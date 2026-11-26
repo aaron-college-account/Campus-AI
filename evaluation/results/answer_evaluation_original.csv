@@ -1,0 +1,158 @@
+architecture,question,expected_behavior,generated_answer,source_count,sources,response_time,accuracy,groundedness,refusal_correct,error
+Baseline,What are the penalties for plagiarism?,Answer,The available university documents do not contain enough information to answer this question.,0,,0.7372,,,,
+Baseline,What happens if I copy someone's assignment?,Answer,"Copying another student’s assignment is considered **plagiarism** and falls under the university’s definition of academic misconduct.  
+According to the Academic Integrity Policy, plagiarism is “the use of another person’s work or ideas without proper attribution” and is treated as a serious breach of conduct.  
+If an allegation of plagiarism is proven, the student will be subject to the penalties outlined in the Student Handbook, which may include disciplinary action such as a warning, a mark of zero, or further sanctions depending on the severity of the offence.  
+
+Sources:  
+- Academic Integrity Policy – definition of plagiarism and academic misconduct [Source 1], [Source 2]  
+- Student Handbook – procedures and penalties for plagiarism [Source 4], [Source 5]",5,Academic Integrity Policy_SPJ.pdf (Page 3) | Academic Integrity Policy_SPJ.pdf (Page 3) | Academic Integrity Policy_SPJ.pdf (Page 2) | Student Handbook_SPJ.pdf (Page 29) | Student Handbook_SPJ.pdf (Page 45),0.8179,,,,
+Baseline,plagarism punishmnt?,Answer,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.0076,,,,
+Baseline,What are the attendance requirements for BDS students?,Answer,"**Attendance requirements for BDS students**
+
+1. **General expectation** – Daily class attendance is required for all students, and regular attendance and attentiveness are essential for successful completion of a unit of study.  
+   *[Source 3]*
+
+2. **Specific requirements** –  
+   - Students must attend all lectures, tutorials, and group activities.  
+   - Attendance is taken during each class session.  
+   - Students should be seated in the classroom at least five minutes before the session starts; latecomers may not be admitted.  
+   - Students may not enter or exit the classroom while a session is in progress.  
+   - Leaving a class session mid‑way will be treated as an absence.  
+   - A lecturer is not required to provide substitute tests or arrange repeat sessions for absent students.  
+   *[Source 1]*, *[Source 3]*",5,Academic Regulations_SPJ.pdf (Page 26) | Academic Regulations_SPJ.pdf (Page 37) | Academic Regulations_SPJ.pdf (Page 45) | Academic Regulations_SPJ.pdf (Page 43) | Academic Regulations_SPJ.pdf (Page 47),0.6188,,,,
+Baseline,What happens if I miss five classes in one BDS subject without approval?,Answer,"If you miss five classes in a BDS subject without prior approval, the policy treats this as an unexcused absence.  
+- Because the absence exceeds three sessions in that unit, you will receive an **F grade** for the subject.  
+- You will be required to **repeat the unit/subject** and pay any applicable fee for the redo.  
+
+This is outlined in the attendance rules for BDS courses.  
+[Source 3] and [Source 5]",5,Academic Regulations_SPJ.pdf (Page 37) | Academic Regulations_SPJ.pdf (Page 37) | Student Handbook_SPJ.pdf (Page 33) | Academic Regulations_SPJ.pdf (Page 45) | Student Handbook_SPJ.pdf (Page 33),0.8475,,,,
+Baseline,Can I get an excused absence if I am sick?,Answer,"Yes.  
+A student who cannot attend a session due to a medical illness must provide a medical certificate (and, if applicable, photocopies of hospitalisation records) to have the absence excused. This is stated in the Student Handbook and Academic Regulations documents.  
+
+[Source 1]  
+[Source 2]  
+[Source 3]  
+[Source 5]",5,Student Handbook_SPJ.pdf (Page 52) | Academic Regulations_SPJ.pdf (Page 26) | Student Handbook_SPJ.pdf (Page 33) | Academic Regulations_SPJ.pdf (Page 45) | Student Handbook_SPJ.pdf (Page 52),0.5122,,,,
+Baseline,How do I submit a formal complaint?,Answer,"To lodge a formal complaint you should:
+
+1. **Complete the Complaints and Grievance Form (Appendix 1)** – the form is available on Blackboard or can be obtained from the Registrar’s Office.  
+2. **Submit the form** – you may send it by:
+   * Email to the Registrar’s Office at registrar@spjain.org,  
+   * Upload it through Blackboard, or  
+   * Deliver it in person to the Registrar’s Office (or any other approved institutional platform).  
+
+The form must include a written description of the complaint, any steps already taken to resolve it informally, a proposed resolution, and any supporting documentation.  
+
+[Source 1] [Source 3] [Source 4]",5,Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Complaints_and_Appeals_SPJ.pdf (Page 3) | Complaints_and_Appeals_SPJ.pdf (Page 12) | Complaints_and_Appeals_SPJ.pdf (Page 5),0.7615,,,,
+Baseline,What is the deadline for lodging a formal grievance?,Answer,The formal grievance must be lodged **within one month** of the issue occurring or of the receipt of advice from the informal stage. The Vice President – Administration may approve exceptions to this time limit if warranted. [Source 2],5,Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 6) | Complaints_and_Appeals_SPJ.pdf (Page 12) | Complaints_and_Appeals_SPJ.pdf (Page 11),0.3309,,,,
+Baseline,How long do I have to appeal a Stage One academic grievance decision?,Answer,You may appeal a Stage One academic grievance decision within **10 working days** from the date you receive the decision. The appeal must be made to the Vice President – Academic (or their nominee). [Source 1] [Source 2],5,Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 9) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 6),0.4518,,,,
+Baseline,How can I book an appointment with a student counsellor?,Answer,"To book an appointment with a student counsellor, contact the office of the S P Jain Student Counsellor (or Student Life) and arrange a meeting. This is the procedure outlined in the university’s support documents. [Source 1] [Source 2]",5,Student Support Information_SPJ.pdf (Page 6) | Student Handbook_SPJ.pdf (Page 39) | Academic Regulations_SPJ.pdf (Page 29) | Student Support Information_SPJ.pdf (Page 6) | Academic Regulations_SPJ.pdf (Page 29),7.5876,,,,
+Baseline,Does the university provide English language support?,Answer,"Yes. The School provides English language support measures that are designed in collaboration with the academic team and the Registrar’s office, with further details outlined in the School’s English Language Proficiency Policy. [Source 1] [Source 2]",5,Student Support Information_SPJ.pdf (Page 4) | Student Support Information_SPJ.pdf (Page 4) | Academic Regulations_SPJ.pdf (Page 28) | Student Support Information_SPJ.pdf (Page 1) | Student Support Information_SPJ.pdf (Page 1),11.5093,,,,
+Baseline,Can I meet my professor outside class for additional help?,Answer,The available university documents do not contain enough information to answer this question.,0,,0.3483,,,,
+Baseline,Can I use my phone during lectures?,Answer,"No.  
+The Student Handbook states that mobile phones (and other personal electronic devices) are **not permitted in the classroom for any class activity, including lectures**. Students must leave their phones outside the classroom before the session begins, and only in exceptional circumstances may a phone be handed over to the Programme Office for secure storage.  
+
+[Source 1]  
+[Source 5]",5,Student Handbook_SPJ.pdf (Page 35) | Student Handbook_SPJ.pdf (Page 58) | Academic Regulations_SPJ.pdf (Page 22) | Academic Regulations_SPJ.pdf (Page 50) | Student Handbook_SPJ.pdf (Page 35),7.7006,,,,
+Baseline,Am I allowed to drink alcohol on campus?,Answer,The available university documents do not contain enough information to answer this question.,0,,7.5479,,,,
+Baseline,Do students have to carry their student ID on campus?,Answer,Yes. Students are required to carry their Student ID card with them at all times while on campus and must produce it when requested as proof of identity. [Source 1],5,Student Code of Conduct_SPJ.pdf (Page 2) | Academic Regulations_SPJ.pdf (Page 46) | Academic Regulations_SPJ.pdf (Page 23) | Student Handbook_SPJ.pdf (Page 61) | Academic Regulations_SPJ.pdf (Page 43),0.4822,,,,
+Baseline,What is the capital of France?,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.022,,,,
+Baseline,How do I cook pasta?,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.0107,,,,
+Baseline,What is the current price of Bitcoin?,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.016,,,,
+Baseline,Write a Python program to sort a list.,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.027,,,,
+Baseline,Who won the 2018 FIFA World Cup?,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.0272,,,,
+Hybrid,What are the penalties for plagiarism?,Answer,"**Penalties for plagiarism (as defined in the School’s Academic Integrity Policy)**  
+
+| Penalty | Description | Source |
+|---------|-------------|--------|
+| **Resubmit the specific task** | The student must submit the assignment again, usually with a revised version. | [Source 12] |
+| **Zero mark or reduced marks for any part of the assessment** | The student receives no credit or a lower score for the offending portion. | [Source 12] |
+| **Requirement to complete an alternative additional assessment** | The student must undertake a different task to demonstrate learning. | [Source 12] |
+| **Fail grade** | The student receives a failing mark for the assessment or the course. | [Source 12] |
+| **Downgrading (reducing the grade by one or more letter notches)** | The student’s overall grade is lowered. | [Source 12] |
+| **Withholding academic results and/or transcript for a specified period** | The student’s results are not released until the penalty period ends. | [Source 12] |
+| **Suspension from a course for up to twelve (12) months** | The student is barred from enrolling in the course for up to a year. | [Source 12] |
+| **Revocation of a recommendation that a student has satisfied all requirements for an award** | The student’s award or recommendation is withdrawn. | [Source 12] |
+| **Revocation of an academic award (e.g., Dean’s List)** | The award is taken back, often requiring Board approval. | [Source 16] |
+| **Revocation of scholarships or academic honours** | Scholarships or honours may be rescinded. | [Source 16] |
+| **Expulsion** | The student may be expelled from the School. | [Source 16] |
+| **Removal from student council positions** | Positions held by the student may be revoked. | [Source 16] |
+
+*The School considers the severity and any prior instances of misconduct when deciding which penalty (or combination of penalties) to impose.*",19,Academic Regulations_SPJ.pdf (Page 36) | Student Handbook_SPJ.pdf (Page 45) | Academic Integrity Policy_SPJ.pdf (Page 3) | Academic Integrity Policy_SPJ.pdf (Page 2) | Student Handbook_SPJ.pdf (Page 45) | Academic Integrity Policy_SPJ.pdf (Page 1) | Academic Regulations_SPJ.pdf (Page 53) | Academic Integrity Policy_SPJ.pdf (Page 8) | Academic Integrity Policy_SPJ.pdf (Page 1) | Academic Regulations_SPJ.pdf (Page 36) | Academic Integrity Policy_SPJ.pdf (Page 2) | Academic Integrity Policy_SPJ.pdf (Page 5) | Academic Integrity Policy_SPJ.pdf (Page 2) | Academic Regulations_SPJ.pdf (Page 22) | Student Handbook_SPJ.pdf (Page 29) | Academic Integrity Policy_SPJ.pdf (Page 5) | Academic Integrity Policy_SPJ.pdf (Page 8) | Student Handbook_SPJ.pdf (Page 62) | Academic Integrity Policy_SPJ.pdf (Page 3),10.555,,,,
+Hybrid,What happens if I copy someone's assignment?,Answer,"Copying another student’s assignment is a form of plagiarism, which is defined as presenting someone else’s work as your own without proper acknowledgement.  
+Under SP Jain’s Academic Integrity Policy, plagiarism is an academic misconduct that is detected through Turnitin and, if proven, can lead to disciplinary action. The policy states that plagiarism “occurs when the work of another is represented, intentionally or unintentionally, as one’s own work, without appropriate acknowledgement” [Source 17].  
+
+The Student Handbook and Academic Regulations both note that all electronic submissions are checked by Turnitin and that plagiarism detection is part of the assessment process [Source 1, Source 3, Source 7, Source 13].  
+
+If a copy is detected, the student may be subject to the penalties outlined in the Academic Integrity Policy and Procedures, which include formal investigation, possible sanctions, and recording of the misconduct on the student’s record [Source 10, Source 13, Source 15].  
+
+In short, copying someone’s assignment is considered plagiarism, will be detected by Turnitin, and can result in disciplinary penalties as per the university’s academic integrity procedures.",18,Student Handbook_SPJ.pdf (Page 29) | Academic Integrity Policy_SPJ.pdf (Page 3) | Student Handbook_SPJ.pdf (Page 29) | Academic Integrity Policy_SPJ.pdf (Page 3) | Academic Integrity Policy_SPJ.pdf (Page 3) | Academic Regulations_SPJ.pdf (Page 22) | Student Handbook_SPJ.pdf (Page 45) | Academic Regulations_SPJ.pdf (Page 19) | Academic Integrity Policy_SPJ.pdf (Page 1) | Student Handbook_SPJ.pdf (Page 45) | Student Handbook_SPJ.pdf (Page 27) | Academic Regulations_SPJ.pdf (Page 19) | Academic Regulations_SPJ.pdf (Page 36) | Academic Integrity Policy_SPJ.pdf (Page 2) | Academic Integrity Policy_SPJ.pdf (Page 8) | Student Handbook_SPJ.pdf (Page 59) | Academic Integrity Policy_SPJ.pdf (Page 2) | Student Code of Conduct_SPJ.pdf (Page 3),31.7428,,,,
+Hybrid,plagarism punishmnt?,Answer,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.4607,,,,
+Hybrid,What are the attendance requirements for BDS students?,Answer,"**Attendance requirements for Bachelor of Data Science (BDS) students**
+
+| Requirement | Details | Source |
+|-------------|---------|--------|
+| **General attendance** | • Attend all lectures, tutorials and group activities. <br>• Be seated (or signed‑in for virtual sessions) at least five minutes before the session starts. <br>• Latecomers may not be admitted. <br>• Students may not enter or exit the classroom while a session is in progress. <br>• Leaving a session mid‑way is treated as an absence. | [Source 1] |
+| **Attendance recording** | • Attendance is taken during each class session (face‑to‑face or virtual). <br>• Random spot checks are conducted by the Course Office; if a student is not in class, they will be marked absent. | [Source 2] |
+| **Excused absences** | • Medical illness requires a medical certificate (and, where applicable, hospitalisation records). <br>• If a student is unable to attend the majority or all sessions of a unit, they must register for that unit again or, if unavailable, undertake an independent study (at extra cost). | [Source 6] |
+| **Low‑attendance monitoring** | • Students failing to meet attendance requirements or perceived to have a low attendance record are reported to the Assistant Dean/Dean, Registrar, Assigned Faculty and the Student Experience Manager. | [Source 6] |
+| **Attendance‑based grade impact** | • If a student is absent without approval for more than four class sessions in one unit, the grade is downgraded by one letter notch (e.g., A → A‑). <br>• Each additional unexcused absence further downgrades the grade by one notch. <br>• Students downgraded due to attendance are not eligible for retest; they must undertake an independent study or redo. | [Source 20] |
+
+These points summarize the BDS attendance policy as outlined in the provided documents.",20,Academic Regulations_SPJ.pdf (Page 26) | Academic Regulations_SPJ.pdf (Page 45) | Academic Regulations_SPJ.pdf (Page 46) | Academic Regulations_SPJ.pdf (Page 37) | Student Handbook_SPJ.pdf (Page 53) | Academic Regulations_SPJ.pdf (Page 27) | Student Handbook_SPJ.pdf (Page 53) | Academic Regulations_SPJ.pdf (Page 47) | Academic Regulations_SPJ.pdf (Page 37) | Student Handbook_SPJ.pdf (Page 34) | Student Handbook_SPJ.pdf (Page 53) | Student Handbook_SPJ.pdf (Page 32) | Student Handbook_SPJ.pdf (Page 33) | Academic Regulations_SPJ.pdf (Page 48) | Academic Regulations_SPJ.pdf (Page 46) | Student Handbook_SPJ.pdf (Page 52) | Student Handbook_SPJ.pdf (Page 34) | Academic Regulations_SPJ.pdf (Page 9) | Academic Regulations_SPJ.pdf (Page 47) | Academic Regulations_SPJ.pdf (Page 26),29.7136,,,,
+Hybrid,What happens if I miss five classes in one BDS subject without approval?,Answer,"If you miss five classes in a single BDS subject without prior approval, the policy excerpts you provided give two different outcomes:
+
+| Source | Policy on un‑approved absences in one unit |
+|--------|-------------------------------------------|
+| **Source 4** (Page 26) | • More than four unapproved absences → downgrade by **one letter notch**.<br>• Each additional unapproved absence thereafter → further downgrade by **one letter notch** per absence. <br>Thus, five absences would result in a **two‑letter‑notch downgrade** (e.g., A → C). |
+| **Source 2** (Page 33) | • Three or more unapproved absences in a unit → **F grade** and the unit must be repeated (paying any applicable fee). |
+
+**Contradiction**  
+Source 4 allows a gradual downgrade (two notches for five absences), whereas Source 2 imposes an immediate F for three or more absences. The documents do not reconcile these differences, so the actual consequence may depend on which policy version is currently in force or on additional institutional guidance.
+
+**Additional note**  
+If a student is downgraded to an F because of attendance, the policy states that such students are **not eligible for a retest** and must complete an IS/REDO as applicable [Source 4].
+
+**Recommendation**  
+Because the excerpts conflict, you should contact the Course Office or Registrar to confirm the current attendance penalty for five unapproved absences in a BDS subject.",20,Academic Regulations_SPJ.pdf (Page 45) | Student Handbook_SPJ.pdf (Page 33) | Academic Regulations_SPJ.pdf (Page 37) | Academic Regulations_SPJ.pdf (Page 26) | Academic Regulations_SPJ.pdf (Page 47) | Academic Regulations_SPJ.pdf (Page 46) | Academic Regulations_SPJ.pdf (Page 26) | Academic Regulations_SPJ.pdf (Page 37) | Academic Regulations_SPJ.pdf (Page 38) | Academic Regulations_SPJ.pdf (Page 47) | Academic Regulations_SPJ.pdf (Page 55) | Academic Regulations_SPJ.pdf (Page 26) | Student Handbook_SPJ.pdf (Page 33) | Student Handbook_SPJ.pdf (Page 53) | Academic Regulations_SPJ.pdf (Page 38) | Academic Regulations_SPJ.pdf (Page 9) | Student Handbook_SPJ.pdf (Page 62) | Academic Regulations_SPJ.pdf (Page 26) | Student Handbook_SPJ.pdf (Page 52) | Student Handbook_SPJ.pdf (Page 46),34.1347,,,,
+Hybrid,Can I get an excused absence if I am sick?,Answer,"Yes.  
+A student who cannot attend a session/s due to a medical illness must produce a medical certificate to have the absences excused. The certificate should be issued by a local physician, and, if applicable, photocopies of hospitalisation records or physician’s orders may also be required.  
+
+[Source 2]  
+[Source 1]",8,Academic Regulations_SPJ.pdf (Page 26) | Student Handbook_SPJ.pdf (Page 33) | Student Handbook_SPJ.pdf (Page 52) | Student Handbook_SPJ.pdf (Page 52) | Student Handbook_SPJ.pdf (Page 53) | Academic Regulations_SPJ.pdf (Page 45) | Academic Regulations_SPJ.pdf (Page 45) | Student Handbook_SPJ.pdf (Page 33),14.9315,,,,
+Hybrid,How do I submit a formal complaint?,Answer,"To lodge a formal complaint, follow these steps:
+
+1. **Complete the Complaints and Grievance Form** –  
+   * Obtain the form from Blackboard (Appendix 1) or the Registrar’s Office.  
+   * Provide all required details: your personal information, the nature of the complaint, dates, locations, persons involved, and any supporting documents.  
+   * [Source 7] lists the form fields; [Source 9] confirms the form must be in writing and include all relevant information.  
+
+2. **Submit the Form** –  
+   * Send the completed form via one of the approved channels:  
+     * Email it to the Registrar’s Office at registrar@spjain.org.  
+     * Upload it through Blackboard or another approved institutional platform.  
+   * [Source 1] and [Source 9] state that enrolled and prospective students submit grievances or complaints to the Registrar’s Office and that the form can be submitted via email or Blackboard.  
+
+3. **Keep a Record** –  
+   * The Registrar’s Office will record the date and time of receipt.  
+   * [Source 1] notes that the receipt date and time should be recorded.  
+
+Ensure the complaint is lodged within one month of the issue (or receipt of advice from the informal stage) unless an exception is approved.",12,Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 3) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Complaints_and_Appeals_SPJ.pdf (Page 9) | Complaints_and_Appeals_SPJ.pdf (Page 12) | Complaints_and_Appeals_SPJ.pdf (Page 6) | Complaints_and_Appeals_SPJ.pdf (Page 3) | Complaints_and_Appeals_SPJ.pdf (Page 6) | Complaints_and_Appeals_SPJ.pdf (Page 2) | Complaints_and_Appeals_SPJ.pdf (Page 9),15.5538,,,,
+Hybrid,What is the deadline for lodging a formal grievance?,Answer,The policy requires that a formal grievance be lodged **within one month** of the issue occurring (or of receiving advice from the informal stage). The Vice President – Administration may approve exceptions to this time limit if the circumstances warrant it. [Source 3],18,Complaints_and_Appeals_SPJ.pdf (Page 9) | Complaints_and_Appeals_SPJ.pdf (Page 6) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Complaints_and_Appeals_SPJ.pdf (Page 12) | Complaints_and_Appeals_SPJ.pdf (Page 1) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Complaints_and_Appeals_SPJ.pdf (Page 3) | Complaints_and_Appeals_SPJ.pdf (Page 1) | Complaints_and_Appeals_SPJ.pdf (Page 11) | Complaints_and_Appeals_SPJ.pdf (Page 6) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Academic Regulations_SPJ.pdf (Page 36) | Student Handbook_SPJ.pdf (Page 56) | Complaints_and_Appeals_SPJ.pdf (Page 3) | Complaints_and_Appeals_SPJ.pdf (Page 2) | Complaints_and_Appeals_SPJ.pdf (Page 1),27.3595,,,,
+Hybrid,How long do I have to appeal a Stage One academic grievance decision?,Answer,You have **10 working days** from the date you receive the decision to appeal a Stage One academic grievance. [Source 2],20,Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Complaints_and_Appeals_SPJ.pdf (Page 9) | Complaints_and_Appeals_SPJ.pdf (Page 6) | Academic Regulations_SPJ.pdf (Page 38) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Student Handbook_SPJ.pdf (Page 56) | Complaints_and_Appeals_SPJ.pdf (Page 6) | Complaints_and_Appeals_SPJ.pdf (Page 9) | Academic Regulations_SPJ.pdf (Page 48) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Complaints_and_Appeals_SPJ.pdf (Page 10) | Student Handbook_SPJ.pdf (Page 53) | Complaints_and_Appeals_SPJ.pdf (Page 3) | Complaints_and_Appeals_SPJ.pdf (Page 3) | Academic Integrity Policy_SPJ.pdf (Page 5) | Student Code of Conduct_SPJ.pdf (Page 4) | Academic Regulations_SPJ.pdf (Page 39) | Complaints_and_Appeals_SPJ.pdf (Page 12),30.386,,,,
+Hybrid,How can I book an appointment with a student counsellor?,Answer,"To book an appointment with a student counsellor, you should **contact the office of the S P Jain Student Counsellor (or Student Life) and arrange an appointment**.  
+
+[Source 1] [Source 2] [Source 3] [Source 4] [Source 5]",19,Student Support Information_SPJ.pdf (Page 6) | Student Handbook_SPJ.pdf (Page 39) | Student Support Information_SPJ.pdf (Page 6) | Academic Regulations_SPJ.pdf (Page 29) | Academic Regulations_SPJ.pdf (Page 29) | Complaints_and_Appeals_SPJ.pdf (Page 8) | Student Support Information_SPJ.pdf (Page 4) | Student Handbook_SPJ.pdf (Page 39) | Student Handbook_SPJ.pdf (Page 38) | Assessment Policies_SPJ.pdf (Page 12) | Student Handbook_SPJ.pdf (Page 31) | Complaints_and_Appeals_SPJ.pdf (Page 4) | Academic Regulations_SPJ.pdf (Page 25) | Academic Integrity Policy_SPJ.pdf (Page 4) | Complaints_and_Appeals_SPJ.pdf (Page 5) | Academic Regulations_SPJ.pdf (Page 30) | Academic Regulations_SPJ.pdf (Page 28) | Complaints_and_Appeals_SPJ.pdf (Page 7) | Academic Integrity Policy_SPJ.pdf (Page 4),28.4248,,,,
+Hybrid,Does the university provide English language support?,Answer,"Yes. SP Jain provides English‑language support for students. The policy states that English‑language support measures are designed in collaboration with the academic team and the Registrar’s office, and further details are set out in the School’s English Language Proficiency Policy [Source 1], [Source 2].",12,Student Support Information_SPJ.pdf (Page 4) | Student Support Information_SPJ.pdf (Page 4) | Student Support Information_SPJ.pdf (Page 1) | Student Support Information_SPJ.pdf (Page 6) | Academic Regulations_SPJ.pdf (Page 28) | Student Support Information_SPJ.pdf (Page 7) | Student Handbook_SPJ.pdf (Page 48) | Student Support Information_SPJ.pdf (Page 2) | Student Handbook_SPJ.pdf (Page 48) | Student Support Information_SPJ.pdf (Page 3) | Student Handbook_SPJ.pdf (Page 38) | Academic Regulations_SPJ.pdf (Page 39),18.1669,,,,
+Hybrid,Can I meet my professor outside class for additional help?,Answer,The available university documents do not contain enough information to answer this question.,0,,0.8927,,,,
+Hybrid,Can I use my phone during lectures?,Answer,"No.  
+The “No‑Phone Classroom Policy” states that students are **not permitted to bring mobile phones, smartwatches, or similar personal electronic devices into the classroom for any class activity, including lectures**. Students must leave their phones outside the classroom before the session begins, and only in an urgent or exceptional circumstance may a phone be handed over to the Programme Office for safekeeping.  
+
+[Source 1] [Source 2]",7,Student Handbook_SPJ.pdf (Page 35) | Student Handbook_SPJ.pdf (Page 35) | Student Handbook_SPJ.pdf (Page 61) | Academic Regulations_SPJ.pdf (Page 54) | Academic Regulations_SPJ.pdf (Page 51) | Student Handbook_SPJ.pdf (Page 60) | Academic Regulations_SPJ.pdf (Page 24),7.1896,,,,
+Hybrid,Am I allowed to drink alcohol on campus?,Answer,The available university documents do not contain enough information to answer this question.,0,,7.7682,,,,
+Hybrid,Do students have to carry their student ID on campus?,Answer,Yes. Students are required to carry their Student ID card with them at all times while on campus and must produce it when requested as proof of identity. [Source 1],16,Student Code of Conduct_SPJ.pdf (Page 2) | Student Handbook_SPJ.pdf (Page 31) | Academic Regulations_SPJ.pdf (Page 52) | Academic Regulations_SPJ.pdf (Page 25) | Academic Regulations_SPJ.pdf (Page 52) | Student Handbook_SPJ.pdf (Page 38) | Student Handbook_SPJ.pdf (Page 33) | Student Handbook_SPJ.pdf (Page 48) | Academic Regulations_SPJ.pdf (Page 50) | Academic Regulations_SPJ.pdf (Page 46) | Academic Regulations_SPJ.pdf (Page 23) | Student Handbook_SPJ.pdf (Page 61) | Academic Regulations_SPJ.pdf (Page 43) | Student Handbook_SPJ.pdf (Page 33) | Academic Regulations_SPJ.pdf (Page 45) | Academic Regulations_SPJ.pdf (Page 46),23.2693,,,,
+Hybrid,What is the capital of France?,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.4602,,,,
+Hybrid,How do I cook pasta?,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.5309,,,,
+Hybrid,What is the current price of Bitcoin?,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.4865,,,,
+Hybrid,Write a Python program to sort a list.,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.5127,,,,
+Hybrid,Who won the 2018 FIFA World Cup?,Refuse,I couldn't find relevant information in the university documents. Please ask a question related to SP Jain's policies or regulations.,0,,0.5158,,,,

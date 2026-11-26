@@ -1,0 +1,5 @@
+architecture,top_k,total_questions,successful_retrievals,hit_rate,mrr,average_retrieval_time
+Baseline,10,25,20,0.8,0.464,0.0272
+Hybrid,10,25,21,0.84,0.4561,0.2914
+Baseline,20,25,23,0.92,0.4717,0.0195
+Hybrid,20,25,22,0.88,0.4594,0.4986
